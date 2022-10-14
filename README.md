@@ -1,5 +1,14 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+/*
+ * Farhan Novaldi
+ * 21343024
+ * Informatika
+ */
+/**
+ * @author Farhan_Nvl
+ */
+Latihan 1 Menampilkan cara mengakses elemen array gambar
+Latihan 2 Menampilkan panjang array sesuai input gambar
+Latihan 3 Menampilkan cara mengakses variabel sesuai indeks yang telah di input. di latihan ketiga ini menggunakan Array Multidimensi. Array multidimensi merupakan array yang terdiri dari beberapa subskrip array. Array dua dimensi adalah array yang mempunyai dua subskrip array. Array tiga dimensi adalah array yang mempunyai tiga subskrip array dan seterusnya gambar
+Tugas1_HariDalamSeminggu. Menampilkan program yang berisikan hari hari dalam seminggu menggunakan for loop. gambar
+Tugas2_NomorTerbesar, merupakan program yang menggunakan JOptionPane, yaitu mengimputkan angka/nilai sebanyak 10, lalu program akan menampilkan angka/nilai paling besar
+Tugas3_BukuAlamat merupakan program yang menampilkan cara mengakses array sesuai indeks yang di inputkan. gambar
